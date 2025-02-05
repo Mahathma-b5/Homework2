@@ -1,0 +1,11 @@
+*.pyc
+__pycache__
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+.hypothesis
+.mypy_cache/
+.tox/
+.venx/
+venv/
